@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Simple Music Tap project to apply HTML, CSS and JavaScrypt knowledge.
+> Simple Music Tap project to apply HTML, CSS and JavaScript knowledge.
 
 <h5><strong> Followed the AMAZING tutorial:</strong> <a href="https://www.youtube.com/watch?v=2VJlzeEVL8A">Dev Ed</a></h5>
 
